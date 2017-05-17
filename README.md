@@ -1,5 +1,8 @@
 # hello-world
-First github remote repo
+First github remote repository
 
-Whats good son
 I remember eating syrup sandwiches 
+
+hello world
+hello world
+hello world
